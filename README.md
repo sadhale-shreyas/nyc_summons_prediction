@@ -12,6 +12,7 @@ The Python libraries utilized for the analysis include Pandas, NumPy, Seaborn, R
 
 <img width="260" alt="GenderBasedSummons" src="https://github.com/sadhale-shreyas/nyc_summons_prediction/assets/143985440/c6bf6e72-519b-4e5c-b041-e8e1f039ba08">
 <img width="360" alt="SummonsCategory" src="https://github.com/sadhale-shreyas/nyc_summons_prediction/assets/143985440/448704ea-fefa-43ee-bdd6-a86b7e062cf7">
+
 ![CorrelationMatrix](https://github.com/sadhale-shreyas/nyc_summons_prediction/assets/143985440/013a7769-d488-4a0e-85c7-a65ab002750d)
 
 
