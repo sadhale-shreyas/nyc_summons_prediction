@@ -8,14 +8,16 @@ To achieve its objectives, the project employs multiple analytical methods, incl
 The Python libraries utilized for the analysis include Pandas, NumPy, Seaborn, Requests, and Matplotlib. Through exploratory data analysis, the team gains insights into the distribution of offenses across different demographics, temporal trends, and geographic locations. The data cleaning process addresses null values, ensuring the dataset's reliability and accuracy for subsequent analyses.
 
 <h2>Visualizations:</h2>
-The project formulates several key questions for investigation, such as the distribution of summons categories across demographics, monthly trends in summons issuance, and the distribution of summons category types across boroughs. Various visualizations, including line graphs, histograms, pie charts, and bar graphs, help represent age group distributions, monthly trends, gender distribution, racial demographics, and more.
+<p>The project formulates several key questions for investigation, such as the distribution of summons categories across demographics, monthly trends in summons issuance, and the distribution of summons category types across boroughs. Various visualizations, including line graphs, histograms, pie charts, and bar graphs, help represent age group distributions, monthly trends, gender distribution, racial demographics, and more.</p>
+
 <img width="260" alt="GenderBasedSummons" src="https://github.com/sadhale-shreyas/nyc_summons_prediction/assets/143985440/c6bf6e72-519b-4e5c-b041-e8e1f039ba08">
 <img width="360" alt="SummonsCategory" src="https://github.com/sadhale-shreyas/nyc_summons_prediction/assets/143985440/448704ea-fefa-43ee-bdd6-a86b7e062cf7">
 
 
 
 <h2>Machine Learning Models</h2>
-The predictive modeling phase introduces KNN Classification and Random Forest Classification models to predict summons category types based on selected features. The Random Forest model stands out with an impressive accuracy of 97.1%, showcasing its effectiveness in categorizing summons based on specified features. This predictive capability offers valuable insights into understanding and analyzing the nature of various summonses issued in NYC.
+<p>The predictive modeling phase introduces KNN Classification and Random Forest Classification models to predict summons category types based on selected features. The Random Forest model stands out with an impressive accuracy of 97.1%, showcasing its effectiveness in categorizing summons based on specified features. This predictive capability offers valuable insights into understanding and analyzing the nature of various summonses issued in NYC.</p>
+
 ![KNN](https://github.com/sadhale-shreyas/nyc_summons_prediction/assets/143985440/3fb6f0c8-5bd6-4ad8-8da9-05cb9a86f5c4)
 ![RandomForest](https://github.com/sadhale-shreyas/nyc_summons_prediction/assets/143985440/09510a3e-a3c8-447b-ba68-523e4b46843a)
 
