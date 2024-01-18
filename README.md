@@ -11,7 +11,7 @@ The Python libraries utilized for the analysis include Pandas, NumPy, Seaborn, R
 The project formulates several key questions for investigation, such as the distribution of summons categories across demographics, monthly trends in summons issuance, and the distribution of summons category types across boroughs. Various visualizations, including line graphs, histograms, pie charts, and bar graphs, help represent age group distributions, monthly trends, gender distribution, racial demographics, and more.
 <img width="260" alt="GenderBasedSummons" src="https://github.com/sadhale-shreyas/nyc_summons_prediction/assets/143985440/c6bf6e72-519b-4e5c-b041-e8e1f039ba08">
 <img width="360" alt="SummonsCategory" src="https://github.com/sadhale-shreyas/nyc_summons_prediction/assets/143985440/448704ea-fefa-43ee-bdd6-a86b7e062cf7">
-![CorrelationMatrix](https://github.com/sadhale-shreyas/nyc_summons_prediction/assets/143985440/9fbd89d4-291a-4827-b5a0-588ebefbfd4c)
+<img width="360" alt="CorrelationMatrix" src=https://github.com/sadhale-shreyas/nyc_summons_prediction/assets/143985440/9fbd89d4-291a-4827-b5a0-588ebefbfd4c)>
 
 
 <h2>Machine Learning Models</h2>
